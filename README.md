@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web computing and also studing Data science with python and R programming languages.   
  💞️ I’m looking to collaborate on gsoc but i need to gain knowledge first 😆😆
 - 📫 you can reach me throught this github profile or my linked accout: https://www.linkedin.com/in/nipun-mahajan-151b61330/
-- ⚡ Fun fact: Did you know? The first computer bug was an actual bug! In 1947, computer scientists found a moth trapped in a relay of the Harvard Mark II computer, coining the term 'debugging' for fixing computer glitches
+- ⚡ Fun fact: In 2019, DeepMind's AI, AlphaStar, played the real-time strategy game StarCraft II at a superhuman level, defeating 99.8% of human players.
 
 <!---
 cosmicrolex/cosmicrolex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
